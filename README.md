@@ -7,7 +7,7 @@
 <div>
   <a href="https://www.instagram.com/ilkias_/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IlkiasX&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlkiasX&layout=compact&theme=shadow_green"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlkiasX&layout=compact&theme=shadow_green"/>
 </div>
 
 <div style="display: inline_block"><br>
