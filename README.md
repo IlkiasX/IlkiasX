@@ -32,4 +32,4 @@
   <a href="https://www.linkedin.com/in/ilkias-pedro-14ba10296/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake Animation](https://github.com/IlkiasX/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/IlkiasX/IlkiasX/blob/output/github-contribution-grid-snake.svg)
